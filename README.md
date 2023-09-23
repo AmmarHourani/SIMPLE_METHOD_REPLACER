@@ -20,3 +20,7 @@ TestCLR.DLL is the DLL we use to attack the target process through injection , i
 TestDLL.DLL is the assembly in which we define our modified method/function
 
 Enjoy
+
+buy me a coffee
+
+https://www.buymeacoffee.com/aaah
